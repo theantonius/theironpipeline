@@ -1,4 +1,8 @@
-# What is The Iron Pipeline?
+---
+layout: default
+---
+
+## What is The Iron Pipeline?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit tincidunt volutpat. Integer nec vehicula tortor, vitae volutpat velit. Morbi odio urna, accumsan nec tristique vel, varius id magna. In a interdum justo. Pellentesque iaculis enim eget erat maximus malesuada quis quis arcu. Nulla vitae bibendum erat, eget dictum enim. Aliquam nec pretium libero. Pellentesque a justo ut leo porta sodales eget at arcu. Donec ac euismod mi, sed pretium neque. Pellentesque dolor risus, porttitor eget porta non, feugiat id erat. Ut auctor, nisl sit amet elementum laoreet, enim arcu pretium magna, in imperdiet est lorem cursus ex. Sed tincidunt eros at ex porta eleifend. Nam a accumsan ante, id venenatis erat. Quisque vulputate, quam nec mollis elementum, augue tortor convallis elit, et dictum nunc nunc a metus. Praesent vitae nulla in justo condimentum bibendum eget non quam. Nulla nec dolor ut tortor lacinia tempus nec ut ex.
 
@@ -28,5 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit tincidunt 
 
 
 Fusce ut metus euismod, efficitur nibh quis, convallis lorem. Mauris et lectus id velit mollis malesuada. Vivamus non augue malesuada, mollis diam ut, ultrices tellus. Duis malesuada ultrices turpis, fringilla finibus augue tincidunt eget. Integer cursus in orci accumsan consectetur. Proin vestibulum eget est eu rutrum. In hac habitasse platea dictumst. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent mattis mauris ex, eget fermentum ex hendrerit sit amet.
+
+
 
 <!-- using jekyll with markdown -->

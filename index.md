@@ -1,9 +1,8 @@
 ---
-title: 
 layout: default
 ---
-# {{ page.title }}
+# What is the Iron Pipeline?
 
-Content here
+Lorem Ipsum
 
 <!-- using jekyll with markdown -->

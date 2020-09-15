@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 name: The Iron Pipeline
+title: The Iron Pipeline
+description: Stop the flow of guns into New York City
+google_analytics: UA-178020398-1
+show_downloads: false

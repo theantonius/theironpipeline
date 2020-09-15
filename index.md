@@ -1,5 +1,7 @@
 ---
 layout: default
+title: The Iron Pipeline
+description: Stop the flow of guns into New York City
 ---
 
 ## What is The Iron Pipeline?

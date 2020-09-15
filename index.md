@@ -1,6 +1,5 @@
----
 name: The Iron Pipeline
-layout: pipeline
+layout: default
 ---
 # What is The Iron Pipeline?
 
